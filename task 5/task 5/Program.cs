@@ -5,8 +5,8 @@ class Program
 {
     static void Main()
     {
-        // 🔁 ЗАМІНИТЬ на своє прізвище!
-        string studentLastName = "Vitvitskiy"; // ← Заміни на своє прізвище
+        
+        string studentLastName = "Vitvitskiy"; 
 
         // Шлях до нової папки
         string folderName = studentLastName + "2";
